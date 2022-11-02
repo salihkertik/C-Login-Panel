@@ -1,0 +1,10 @@
+C:\Users\Salih\Desktop\Udemy_Project\Login_Panel\Login_Panel\bin\Debug\Login_Panel.exe.config
+C:\Users\Salih\Desktop\Udemy_Project\Login_Panel\Login_Panel\bin\Debug\Login_Panel.exe
+C:\Users\Salih\Desktop\Udemy_Project\Login_Panel\Login_Panel\bin\Debug\Login_Panel.pdb
+C:\Users\Salih\Desktop\Udemy_Project\Login_Panel\Login_Panel\obj\Debug\Login_Panel.csproj.AssemblyReference.cache
+C:\Users\Salih\Desktop\Udemy_Project\Login_Panel\Login_Panel\obj\Debug\Login_Panel.Form1.resources
+C:\Users\Salih\Desktop\Udemy_Project\Login_Panel\Login_Panel\obj\Debug\Login_Panel.Properties.Resources.resources
+C:\Users\Salih\Desktop\Udemy_Project\Login_Panel\Login_Panel\obj\Debug\Login_Panel.csproj.GenerateResource.cache
+C:\Users\Salih\Desktop\Udemy_Project\Login_Panel\Login_Panel\obj\Debug\Login_Panel.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\Udemy_Project\Login_Panel\Login_Panel\obj\Debug\Login_Panel.exe
+C:\Users\Salih\Desktop\Udemy_Project\Login_Panel\Login_Panel\obj\Debug\Login_Panel.pdb
